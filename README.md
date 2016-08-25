@@ -4,8 +4,7 @@ Curs QGIS Basic fet a l'ICGC l'any 2016
 Cal instal·lar (descomprimir els arxius .zip) tots els arxius i distribuir-los de la següent manera per a que la informació que hi ha als exercicis quadri:
 
 + \Exercicis_dades\Base_topo\Base1000_CL.dbf .prj .qpj .shp .shx
-
-\Exercicis_dades\Base_topo\Base1000_EL.dbf .prj .qpj .shp .shx
++ \Exercicis_dades\Base_topo\Base1000_EL.dbf .prj .qpj .shp .shx
 
 \Exercicis_dades\Base_topo\Base1000_HL.dbf .prj .qpj .shp .shx
 
