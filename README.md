@@ -4,22 +4,38 @@ Curs QGIS Basic fet a l'ICGC l'any 2016
 Cal instal·lar (descomprimir els arxius .zip) tots els arxius i distribuir-los de la següent manera per a que la informació que hi ha als exercicis quadri.
 
 \Exercicis_dades\Base_topo\Base1000_CL.dbf .prj .qpj .shp .shx
-                           Base1000_EL.dbf .prj .qpj .shp .shx
-                           Base1000_HL.dbf .prj .qpj .shp .shx
-                           Base1000_HP.dbf .prj .qpj .shp .shx
-                           Base1000_OL.dbf .prj .qpj .shp .shx
-                           Base1000_ON.dbf .prj .qpj .shp .shx
-                           Base1000_OP.dbf .prj .qpj .shp .shx
-                           Base1000_PL.dbf .prj .qpj .shp .shx
-                           Base1000_PP.dbf .prj .qpj .shp .shx
-                           Base1000_SL.dbf .prj .qpj .shp .shx
-                           Base1000_SN.dbf .prj .qpj .shp .shx
-                           Base1000_SP.dbf .prj .qpj .shp .shx
-                           Base1000_UL.dbf .prj .qpj .shp .shx
-                           Base1000_UP.dbf .prj .qpj .shp .shx
-                           Base1000_VL.dbf .prj .qpj .shp .shx
-                           base_GAVA_Limits_municipals_contorn.dbf .prj .sbn .sbx .shp .shx
-                           base_GAVA_Limits_municipals_Gava.dbf .prj .sbn .sbx .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_EL.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_HL.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_HP.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_OL.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_ON.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_OP.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_PL.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_PP.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_SL.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_SN.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_SP.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_UL.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_UP.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Base1000_VL.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\base_GAVA_Limits_municipals_contorn.dbf .prj .sbn .sbx .shp .shx
+
+\Exercicis_dades\Base_topo\base_GAVA_Limits_municipals_Gava.dbf .prj .sbn .sbx .shp .shx
 
 \Exercicis_dades\Base_topo\Toponimia\Numeros_policia_01000.dbf .prj .qpj .shp .shx
                                      Numeros_policia_02000.dbf .prj .qpj .shp .shx
