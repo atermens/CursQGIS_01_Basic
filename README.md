@@ -1,9 +1,9 @@
 # CursQGIS_01_Basic
 Curs QGIS Basic fet a l'ICGC l'any 2016
 
-Cal instal·lar (descomprimir els arxius .zip) tots els arxius i distribuir-los de la següent manera per a que la informació que hi ha als exercicis quadri.
+Cal instal·lar (descomprimir els arxius .zip) tots els arxius i distribuir-los de la següent manera per a que la informació que hi ha als exercicis quadri:
 
-\Exercicis_dades\Base_topo\Base1000_CL.dbf .prj .qpj .shp .shx
++ \Exercicis_dades\Base_topo\Base1000_CL.dbf .prj .qpj .shp .shx
 
 \Exercicis_dades\Base_topo\Base1000_EL.dbf .prj .qpj .shp .shx
 
@@ -38,14 +38,22 @@ Cal instal·lar (descomprimir els arxius .zip) tots els arxius i distribuir-los 
 \Exercicis_dades\Base_topo\base_GAVA_Limits_municipals_Gava.dbf .prj .sbn .sbx .shp .shx
 
 \Exercicis_dades\Base_topo\Toponimia\Numeros_policia_01000.dbf .prj .qpj .shp .shx
-                                     Numeros_policia_02000.dbf .prj .qpj .shp .shx
-                                     Toponimia_01000.dbf .prj .qix .qml .qpj .shp .shx
-                                     Toponimia_02000.dbf .prj .qix .qpj .shp .shx
-                                     Toponimia_05000.dbf .prj .qpj .shp .shx
-                                     Toponimia_07500.dbf .prj .qpj .shp .shx
-                                     Toponimia_10000.dbf .prj .qpj .shp .shx
-                                     Toponimia_15000.dbf .prj .qpj .shp .shx
-                                     Toponimia_20000.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Toponimia\Numeros_policia_02000.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Toponimia\Toponimia_01000.dbf .prj .qix .qml .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Toponimia\Toponimia_02000.dbf .prj .qix .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Toponimia\Toponimia_05000.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Toponimia\Toponimia_07500.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Toponimia\Toponimia_10000.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Toponimia\Toponimia_15000.dbf .prj .qpj .shp .shx
+
+\Exercicis_dades\Base_topo\Toponimia\Toponimia_20000.dbf .prj .qpj .shp .shx
 
 \Exercicis_dades\Base_topo_5k_CAD\bt5mv20dx1f283130px1r050_planimetria.dxf
                                   bt5mv20dx1f283130tx1r050_toponimia.dxf
