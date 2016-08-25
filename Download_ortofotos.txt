@@ -1,0 +1,5 @@
+Cal descarregar de l'ICGC les ortofotos 
+of25c 285-130, 285-131, 285-132, 286-130, 
+286-131 i 286-132 en format TIF
+
+els arxius seran del tipus of25cv33sd0f285130ss1r090.tif
